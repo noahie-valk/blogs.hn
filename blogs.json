@@ -364,6 +364,11 @@
     ]
   },
   {
+    "url": "https://noahie.xyz",
+    "title": "Noahie's Terminal",
+    "feed": "https://noahie.xyz/blog/rss.xml",
+    "desc": "Personal text corpus. Blogging, essays, fiction, philosophy, poetry."
+  {
     "url": "https://vitovan.com",
     "title": "Vito Van",
     "feed": "https://vitovan.com/rss.xml",
